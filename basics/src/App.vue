@@ -21,6 +21,6 @@ import BackgroundColorChanger from './components/BackgroundColorChanger.vue';
 </script>
 
 <style>
-/* Estilos globales si son necesarios */
+
 </style>
 
